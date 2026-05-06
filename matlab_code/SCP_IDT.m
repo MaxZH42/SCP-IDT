@@ -4,7 +4,7 @@
 clc; clear; close all;
 
 addpath('.\functions');
-addpath1 = '.\IDT';                     % Captured images
+addpath1 = '.\RAW';                     % Captured images
 addpath2 = '.\BG';                      % Captured background images
 
 
